@@ -1,0 +1,25 @@
+.image_upload
+{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: white;
+    border-top: 2px solid lightgray;
+    border: 5px solid rgb(255, 168, 47);
+    
+}
+
+.prog
+{
+    padding: 1px;
+    width: 100%;
+}
+.image_upload_container
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
